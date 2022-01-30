@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js": "^12.5.3",
-    "moment": "^2.27.0",
+    "moment": "^2.29.1",
     "moment-duration-format": "^2.3.2",
     "mysql": "^2.18.1",
     "quick.db": "^7.1.3"

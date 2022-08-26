@@ -9,7 +9,7 @@
   "author": "Salty-Coder",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^14.0.3",
+    "discord.js": "^14.1.1",
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
     "mysql": "^2.18.1",
